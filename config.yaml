@@ -1,0 +1,4 @@
+app_name: MG
+local_only: true
+vosk_model_path: ./model
+mqtt_broker: mqtt://localhost:1883

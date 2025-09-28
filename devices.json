@@ -1,0 +1,6 @@
+{
+    "devices": [
+        {"name": "LivingRoomLight", "type": "light", "topic": "home/devices/livingroom/light"},
+        {"name": "Thermostat", "type": "thermostat", "topic": "home/devices/thermostat/status"}
+    ]
+}
